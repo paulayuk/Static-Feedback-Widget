@@ -1,0 +1,29 @@
+/**
+*
+*  General styles for the feedback form
+*
+***/
+
+body{
+	margin: 0;
+	padding: 0;
+	font-size: 18px;
+	font-family: sans-serif;
+}
+
+.wrapper{
+    width: 330px;
+    height: 180px;
+    margin: 0 auto;
+    margin-top: 200px;
+    border: 1px solid black;
+    border-radius: 3px;
+}
+
+h4{
+	font-size: 16px;
+	font-weight: normal;
+	padding-left: 30px;
+	font-family: ;
+	margin-top: 25px;
+}
